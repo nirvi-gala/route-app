@@ -1,0 +1,15 @@
+.container .select select{width: 150px;padding: 5px;outline: none;margin-bottom: 20px;}
+.todo p{display: inline-block;width: 20%;text-align: center;}
+.todo{border-bottom: 2px solid #555;}
+.login-head{  text-align: center;  color: #277582;  padding: 20px;  }  
+.inner-wrapper{ width: 382px;  overflow: hidden;  margin: auto;  padding: 60px;  background: #23463f;  border-radius: 15px ;  }
+.inner-wrapper .login label{  color: #fff;  font-size: 17px;  }  
+.inner-wrapper .login{ margin: 20px 0px;  }  
+.inner-wrapper .login input{ width: 300px;  height: 30px;  border: none;  border-radius: 3px;  padding-left: 8px;  margin-top: 5px;}
+.inner-wrapper button{ width: 300px;  height: 40px;  border: none;  border-radius: 17px;   padding-left: 7px;  color: #fff; background-color: #277582; margin-top: 25px;  font-size: 16px; cursor: pointer; outline: none;}
+.container{margin: 20px;}
+.tasks-container button{background-color: #0774C9; margin-top: 10px;color: white;border: none;padding: 10px;border-radius: 3px; cursor: pointer; outline: none;}
+.tasks-container .delete {background-color: #D45349;}
+.user-container .user-details p, .user-container .user-details input{ display: inline-block; margin: 0px 0px 10px 8px; }
+.user-container .user-details label{ font-weight: bold; }
+.user-container button{ margin: 40px 20px 0px 0px; padding: 10px; background: #fff; border: 2px solid #ddd; font-size: 16px; }
